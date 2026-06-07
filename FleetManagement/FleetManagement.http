@@ -1,0 +1,6 @@
+@FleetManagement_HostAddress = http://localhost:5230
+
+GET {{FleetManagement_HostAddress}}
+Accept: application/json
+
+###
