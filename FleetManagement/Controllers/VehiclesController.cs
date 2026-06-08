@@ -38,4 +38,5 @@ namespace FleetManagement.Controllers
             return CreatedAtAction(nameof(GetById), new { id = vehicle.Id }, vehicle);
         }
     }
+
 }
